@@ -58,7 +58,7 @@ I'm a developer who loves to explore new technologies and create innovative solu
   <a href="https://github.com/BJM2004">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/BJM2004">
+  <a href="www.linkedin.com/in/jordan-balla">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/BJM2004">
